@@ -1,1 +1,1 @@
-A Sampple of Virtual Business Card.
+A Sample of Virtual Business Card.
